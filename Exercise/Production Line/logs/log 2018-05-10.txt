@@ -1,0 +1,110 @@
+10.05.2018 18:39:22 Initializing PLC... 
+10.05.2018 18:39:22 UI initialized 
+10.05.2018 18:39:22 Model initilalized 
+10.05.2018 18:39:22 DAQ module initialized 
+10.05.2018 18:39:22 PLC initialization successful! 
+10.05.2018 18:42:32 Initializing PLC... 
+10.05.2018 18:42:32 UI initialized 
+10.05.2018 18:42:32 Model initilalized 
+10.05.2018 18:42:32 DAQ module initialized 
+10.05.2018 18:43:05 Initializing PLC... 
+10.05.2018 18:43:05 UI initialized 
+10.05.2018 18:43:05 Model initilalized 
+10.05.2018 18:43:05 DAQ module initialized 
+10.05.2018 18:43:05 PLC initialization successful! 
+10.05.2018 18:45:02 Initializing PLC... 
+10.05.2018 18:45:02 UI initialized 
+10.05.2018 18:45:02 Model initilalized 
+10.05.2018 18:45:02 DAQ module initialized 
+10.05.2018 18:45:02 PLC initialization successful! 
+10.05.2018 18:45:42 Initializing PLC... 
+10.05.2018 18:45:42 UI initialized 
+10.05.2018 18:45:42 Model initilalized 
+10.05.2018 18:45:42 DAQ module initialized 
+10.05.2018 18:47:48 Initializing PLC... 
+10.05.2018 18:47:48 UI initialized 
+10.05.2018 18:47:48 Model initilalized 
+10.05.2018 18:47:48 DAQ module initialized 
+10.05.2018 18:49:16 Initializing PLC... 
+10.05.2018 18:49:16 UI initialized 
+10.05.2018 18:49:16 Model initilalized 
+10.05.2018 18:49:16 DAQ module initialized 
+10.05.2018 18:49:16 PLC initialization successful! 
+10.05.2018 18:49:32 Initializing PLC... 
+10.05.2018 18:49:32 UI initialized 
+10.05.2018 18:49:32 Model initilalized 
+10.05.2018 18:49:32 DAQ module initialized 
+10.05.2018 18:49:32 PLC initialization successful! 
+10.05.2018 18:51:55 Initializing PLC... 
+10.05.2018 18:51:55 UI initialized 
+10.05.2018 18:51:55 Model initilalized 
+10.05.2018 18:51:55 DAQ module initialized 
+10.05.2018 18:51:55 PLC initialization successful! 
+10.05.2018 18:55:06 Initializing PLC... 
+10.05.2018 18:55:06 UI initialized 
+10.05.2018 18:55:06 Model initilalized 
+10.05.2018 18:55:06 DAQ module initialized 
+10.05.2018 18:55:06 PLC initialization successful! 
+10.05.2018 19:04:51 Initializing PLC... 
+10.05.2018 19:04:51 UI initialized 
+10.05.2018 19:04:51 Model initilalized 
+10.05.2018 19:04:51 DAQ module initialized 
+10.05.2018 19:04:51 PLC initialization successful! 
+10.05.2018 19:06:31 Initializing PLC... 
+10.05.2018 19:06:31 UI initialized 
+10.05.2018 19:06:31 Model initilalized 
+10.05.2018 19:06:31 DAQ module initialized 
+10.05.2018 19:06:31 PLC initialization successful! 
+10.05.2018 19:07:15 Stopping process... 
+10.05.2018 19:07:15 Process has stoped 
+10.05.2018 19:09:06 Closing PLC... 
+10.05.2018 19:09:06 Model closed 
+10.05.2018 19:09:06 DAQ module closed 
+10.05.2018 19:09:06 PLC shutdown successful! 
+10.05.2018 19:09:06 Application quits 
+10.05.2018 19:09:31 UI initialized 
+10.05.2018 19:09:31 Initializing PLC... 
+10.05.2018 19:09:31 Model initilalized 
+10.05.2018 19:09:31 DAQ module initialized 
+10.05.2018 19:09:31 PLC initialization successful! 
+10.05.2018 19:09:36 Closing PLC... 
+10.05.2018 19:09:36 Model closed 
+10.05.2018 19:09:36 DAQ module closed 
+10.05.2018 19:09:36 PLC shutdown successful! 
+10.05.2018 19:09:36 Application quits 
+10.05.2018 19:10:46 Initializing PLC... 
+10.05.2018 19:10:46 UI initialized 
+10.05.2018 19:10:46 Model initilalized 
+10.05.2018 19:10:46 DAQ module initialized 
+10.05.2018 19:10:46 PLC initialization successful! 
+10.05.2018 19:10:52 Stopping process... 
+10.05.2018 19:10:52 Process has stoped 
+10.05.2018 19:10:54 Starting process... 
+10.05.2018 19:10:54 Process has started 
+10.05.2018 19:11:00 Stopping process... 
+10.05.2018 19:11:00 Process has stoped 
+10.05.2018 19:11:01 Closing PLC... 
+10.05.2018 19:11:01 Model closed 
+10.05.2018 19:11:01 DAQ module closed 
+10.05.2018 19:11:01 PLC shutdown successful! 
+10.05.2018 19:11:01 Application quits 
+10.05.2018 19:13:55 Initializing PLC... 
+10.05.2018 19:13:55 UI initialized 
+10.05.2018 19:13:55 Model initilalized 
+10.05.2018 19:13:55 DAQ module initialized 
+10.05.2018 19:13:55 PLC initialization successful! 
+10.05.2018 19:13:58 Line has been powered 
+10.05.2018 19:13:59 No power! 
+10.05.2018 19:14:03 Line has been powered 
+10.05.2018 19:14:06 Starting process... 
+10.05.2018 19:14:06 Process has started 
+10.05.2018 19:14:17 Another barrel filled 
+10.05.2018 19:14:28 Liquid level overflow! 
+10.05.2018 19:14:31 Another barrel filled 
+10.05.2018 19:14:44 Stopping process... 
+10.05.2018 19:14:44 Process has stoped 
+10.05.2018 19:14:45 Closing PLC... 
+10.05.2018 19:14:45 Model closed 
+10.05.2018 19:14:45 DAQ module closed 
+10.05.2018 19:14:45 PLC shutdown successful! 
+10.05.2018 19:14:45 Application quits 
